@@ -1,4 +1,5 @@
 # Conference-Talks
+This repository contains all my talks that I have presented at different conferences, meetups and online webinars.
 
 ## 2025
 - [Simplifying Kubernetes Adoption with Devtron](https://youtu.be/e9L8yffP16s?t=2) | The New Stack
