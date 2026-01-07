@@ -2,6 +2,7 @@
 This repository contains all my talks that I have presented at different conferences, meetups and online webinars.
 
 ## 2025
+- [The Future of DevPortals](https://www.youtube.com/watch?v=-XAOMlVlSJc&list=PLj6h78yzYM2OAs2K8-23IyANn5ZW0u1b0&index=7) | Kubecon NA BackStageCon
 - [Simplifying Kubernetes Adoption with Devtron](https://youtu.be/e9L8yffP16s?t=2) | The New Stack
 
 ## 2024
