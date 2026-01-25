@@ -2,7 +2,7 @@
 This repository contains all my talks that I have presented at different conferences, meetups and online webinars.
 
 ## 2026
-- [Backpacking Through the CNCF Landscape](https://community.cncf.io/events/details/cncf-cloud-native-lucknow-presents-starting-the-year-with-open-source/)
+- [Backpacking Through the CNCF Landscape](https://community.cncf.io/events/details/cncf-cloud-native-lucknow-presents-starting-the-year-with-open-source/) | CNCG Lucknow 
 
 ## 2025
 - [The Future of DevPortals](https://www.youtube.com/watch?v=-XAOMlVlSJc&list=PLj6h78yzYM2OAs2K8-23IyANn5ZW0u1b0&index=7) | Kubecon NA BackStageCon
