@@ -4,7 +4,7 @@ This repository contains all my talks that I have presented at different confere
 ## 2026
 - [Backpacking Through the CNCF Landscape](https://community.cncf.io/events/details/cncf-cloud-native-lucknow-presents-starting-the-year-with-open-source/) | CNCG Lucknow
 - [From LLMs to Agentic Systems in Kubernetes](https://www.linkedin.com/feed/update/urn:li:activity:7425863725221453824/?originTrackingId=o0u6FGnoKY0%2BinyDkUxI3Q%3D%3D) | Cloud Native & AI Day: “Beyond ChatBots — Let’s talk about Agentic Stack."
-- 
+- [Lessons Learned the Hard Way: Using AI in DevOps](https://www.linkedin.com/posts/abhinavd26_awscommunityday-jaipur-kubernetes-activity-7434232830303354880-N2IF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACgprHsBmXig41mgwoVkj0F5AH778YM-8SA) | AWS Community Day Jaipur
 
 ## 2025
 - [The Future of DevPortals](https://www.youtube.com/watch?v=-XAOMlVlSJc&list=PLj6h78yzYM2OAs2K8-23IyANn5ZW0u1b0&index=7) | Kubecon NA BackStageCon
